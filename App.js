@@ -1,6 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import Facebook from './screens/Facebook'
+import Instagram from './screens/Instagram'
 
 export default function App() {
   return (
